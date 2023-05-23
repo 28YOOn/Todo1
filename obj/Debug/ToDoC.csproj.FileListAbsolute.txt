@@ -1,0 +1,11 @@
+C:\Users\82105\source\repos\ToDoC\ToDoC\bin\Debug\ToDoC.exe.config
+C:\Users\82105\source\repos\ToDoC\ToDoC\bin\Debug\ToDoC.exe
+C:\Users\82105\source\repos\ToDoC\ToDoC\bin\Debug\ToDoC.pdb
+C:\Users\82105\source\repos\ToDoC\ToDoC\obj\Debug\ToDoC.csproj.AssemblyReference.cache
+C:\Users\82105\source\repos\ToDoC\ToDoC\obj\Debug\ToDoC.csproj.SuggestedBindingRedirects.cache
+C:\Users\82105\source\repos\ToDoC\ToDoC\obj\Debug\ToDoC.Form1.resources
+C:\Users\82105\source\repos\ToDoC\ToDoC\obj\Debug\ToDoC.Properties.Resources.resources
+C:\Users\82105\source\repos\ToDoC\ToDoC\obj\Debug\ToDoC.csproj.GenerateResource.cache
+C:\Users\82105\source\repos\ToDoC\ToDoC\obj\Debug\ToDoC.csproj.CoreCompileInputs.cache
+C:\Users\82105\source\repos\ToDoC\ToDoC\obj\Debug\ToDoC.exe
+C:\Users\82105\source\repos\ToDoC\ToDoC\obj\Debug\ToDoC.pdb
